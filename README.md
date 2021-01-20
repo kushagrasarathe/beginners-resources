@@ -21,9 +21,9 @@ Gem article for beginners:
 [Learn 365](https://github.com/harsh-bothra/learn365)
 
 
-# Credits: 
-[Harsh Bothra](https://twitter.com/harshbothra_)
-### Credits: [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
-### Credits: [Nahmsec's](https://twitter.com/NahamSec)
-### Credits: [OccupytheWeb](https://twitter.com/three_cube)
- [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
+## Credits to people who contributed to above resources: 
+#### [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
+#### [Harsh Bothra](https://twitter.com/harshbothra_)
+#### [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
+#### [Nahmsec](https://twitter.com/NahamSec)
+#### [OccupytheWeb](https://twitter.com/three_cube)

@@ -9,7 +9,7 @@ Gem article by [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47):
 ## Basic Topics you should learn before starting:
 [Hackers-arise](https://www.hackers-arise.com/getting-started) by [OccupytheWeb](https://twitter.com/three_cube)
 
-## Nahmsec's Repo:
+## [Nahmsec's](https://twitter.com/NahamSec) Repo:
 [Nahamsec's Repository for beginners](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 ## Bminossi's PoC Repo:

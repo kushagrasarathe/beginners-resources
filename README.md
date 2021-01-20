@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/HACKE-RC/beginners-resources"><img src="https://beeimg.com/images/k14536081393.png" alt="Logo" width="300" height="280"></a>
+  <a href="https://github.com/HACKE-RC/beginners-resources"><img src="https://beeimg.com/images/k14536081393.png" alt="Logo" width="400" height="380"></a>
   <br>
   Beginner resources v2.0
   <br>

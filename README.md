@@ -2,7 +2,7 @@
   <br>
   <a href="#"><img src="https://beeimg.com/images/k14536081393.png" alt="Logo" width="400" height="380"></a>
   <br>
-  Beginner resources v2.0
+  Beginner resources v1.1
   <br>
 </h1>
 

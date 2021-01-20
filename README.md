@@ -42,6 +42,7 @@ Gem article for beginners:
 #### [OccupytheWeb](https://twitter.com/three_cube)
 #### [Vickie Li](https://twitter.com/vickieli7)
 #### [James Kettle](https://twitter.com/albinowax)
+#### [Ammar Amer](https://twitter.com/cry__pto)
 
 ## Credits to people who contributed to above resources: 
 #### [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)

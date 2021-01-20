@@ -3,7 +3,7 @@ This repository contains resources that a beginner would need to get started in 
 
 # Index:
 #### [Getting-started-in-bug-bounty-hunting](https://github.com/kushagrasarathe/beginners-resources#getting-started-in-bug-bounty-hunting)
-#### [articles-by-vickie-li](https://github.com/kushagrasarathe/beginners-resources#articles-by-vickie-li)
+#### [Articles-by-vickie-li](https://github.com/kushagrasarathe/beginners-resources#articles-by-vickie-li)
 #### [Basic-topics-you-should-learn-to-get-started](https://github.com/kushagrasarathe/beginners-resources#basic-topics-you-should-learn-to-get-started)
 #### [Nahmsecs-repo](https://github.com/kushagrasarathe/beginners-resources#nahmsecs-repo)
 #### [Bminossis-poc-repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)

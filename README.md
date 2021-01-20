@@ -6,3 +6,6 @@ This repository contains resources that a beginner would need to get started in 
 
 #  Bminossi's PoC Repo:
 [AllVideoPocsFromHackerOne](https://github.com/bminossi/AllVideoPocsFromHackerOne)
+
+# Learn 365 by Harsh Bothra
+[Learn 365](https://github.com/harsh-bothra/learn365)

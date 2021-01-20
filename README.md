@@ -2,12 +2,12 @@
 This repository contains resources that a beginner would need to get started in web application penetration testing and bug hunting.
 
 # Index:
-[Getting-started-in-bug-bounty-hunting](https://github.com/kushagrasarathe/beginners-resources#getting-started-in-bug-bounty-hunting)
-[articles-by-vickie-li](https://github.com/kushagrasarathe/beginners-resources#articles-by-vickie-li)
-[Basic-topics-you-should-learn-to-get-started](https://github.com/kushagrasarathe/beginners-resources#basic-topics-you-should-learn-before-starting)
-[Nahmsecs-repo](https://github.com/kushagrasarathe/beginners-resources#nahmsecs-repo)
-[Bminossis-poc-repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)
-[Learn-365-by-harsh-bothra](https://github.com/kushagrasarathe/beginners-resources#learn-365-by-harsh-bothra)
+#### [Getting-started-in-bug-bounty-hunting](https://github.com/kushagrasarathe/beginners-resources#getting-started-in-bug-bounty-hunting)
+#### [articles-by-vickie-li](https://github.com/kushagrasarathe/beginners-resources#articles-by-vickie-li)
+#### [Basic-topics-you-should-learn-to-get-started](https://github.com/kushagrasarathe/beginners-resources#basic-topics-you-should-learn-to-get-started)
+#### [Nahmsecs-repo](https://github.com/kushagrasarathe/beginners-resources#nahmsecs-repo)
+#### [Bminossis-poc-repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)
+#### [Learn-365-by-harsh-bothra](https://github.com/kushagrasarathe/beginners-resources#learn-365-by-harsh-bothra)
 
 
 ## Getting Started in Bug Bounty Hunting:

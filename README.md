@@ -87,7 +87,7 @@ This repository contains resources that a beginner would need to get started in 
 - [Ammar Amer](https://twitter.com/cry__pto)
 - [Mr. RC](https://twitter.com/coder_rc) 
 
-## Thanks to all the contributors who created above content: 
+## Thanks to all the contributors who created above mentioned resources: 
 - [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
 - [Harsh Bothra](https://twitter.com/harshbothra_)
 - [Bruno - Zeroc00I](https://twitter.com/zeroc00I)

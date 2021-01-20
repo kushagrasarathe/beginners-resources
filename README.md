@@ -14,12 +14,14 @@ This repository contains resources that a beginner would need to get started in 
 Gem article for beginners:
 [Getting Started in Bug Bounty Hunting](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/)
 
-
 ## Articles by Vickie Li:
 [vickieli.dev](https://vickieli.dev/)
 
 ## Basic Topics you should learn to get started:
 [Hackers-arise](https://www.hackers-arise.com/getting-started) 
+
+## Pentesting Bible:
+[PENTESTING-BIBLE by Ammar Amer](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 
 ## Nahmsec's Repo:
 [Nahamsec's Repository for beginners](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
@@ -48,5 +50,6 @@ Gem article for beginners:
 #### [Nahmsec](https://twitter.com/NahamSec)
 #### [OccupytheWeb](https://twitter.com/three_cube)
 #### [Vickie Li](https://twitter.com/vickieli7)
+#### [Ammar Amer](https://twitter.com/cry__pto)
 
 ##### P.S.: Please let me know if your name should be in above list.

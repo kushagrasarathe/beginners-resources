@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/kushagrasarathe/beginners-resources/"><img src="https://beeimg.com/images/k14536081393.png" alt="Logo" width="400" height="380"></a>
+  <a href="#"><img src="https://beeimg.com/images/k14536081393.png" alt="Logo" width="400" height="380"></a>
   <br>
   Beginner resources v2.0
   <br>
@@ -38,20 +38,56 @@ This repository contains resources that a beginner would need to get started in 
 - [Learn 365](https://github.com/harsh-bothra/learn365)
 - [PENTESTING-BIBLE by Ammar Amer](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 
-## People to follow
+## People you can follow for amazing findings and resources
 - [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
 - [Harsh Bothra](https://twitter.com/harshbothra_)
-- [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
-- [Nahamsec](https://twitter.com/NahamSec)
+- [Aditya shende](https://twitter.com/ADITYASHENDE17)
+- [John Hammond](https://twitter.com/_johnhammond)
+- [STÖK](https://twitter.com/stokfredrik)
+- [Jason Haddix](https://twitter.com/Jhaddix)
+- [zSecurity](https://twitter.com/_zSecurity_)
+- [Heath Adams](https://twitter.com/thecybermentor)
+- [TomNomNom](https://twitter.com/TomNomNom)
+- [Farah](https://twitter.com/Farah_Hawaa)
+- [NahamSec](https://twitter.com/NahamSec)
+- [HackerSploit](https://twitter.com/HackerSploit)
+- [Vivek Ramachandran](https://twitter.com/vivekramac)
+- [Georgia Weidman](https://twitter.com/georgiaweidman)
+- [James Kettle](https://twitter.com/albinowax)
 - [Katie Paxton-Fear aka InsiderPhD](https://twitter.com/InsiderPhD)
 - [OccupytheWeb](https://twitter.com/three_cube)
 - [Vickie Li](https://twitter.com/vickieli7)
-- [James Kettle](https://twitter.com/albinowax)
+- [PwnFunction](https://twitter.com/PwnFunction)
+- [Stefan Rows](https://twitter.com/ceos3c)
+- [Musab Khan](https://twitter.com/Musab1995)
+- [Damanpreet Singh](https://twitter.com/MrDamanSingh)
+- [Patrik Hudak](https://twitter.com/0xpatrik)
+- [Manas](https://twitter.com/ManasH4rsh)
+- [Deepak Dhiman](https://twitter.com/Virdoex_hunter)
+- [Shawar Khan](https://twitter.com/ShawarkOFFICIAL)
+- [Max](https://twitter.com/0xw2w)
+- [Michael Skelton](https://twitter.com/codingo_)
+- [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
+- [Neha Tariq](https://twitter.com/nehatarick)
+- [Hx01](https://twitter.com/Hxzeroone)
+- [Pratik Dabhi](https://twitter.com/impratikdabhi)
+- [LiveOverflow](https://twitter.com/LiveOverflow)
+- [InfoSec Community](https://twitter.com/InfoSecComm)
+- [Cristi Vlad](https://twitter.com/CristiVlad25)
+- [PortSwigger](https://twitter.com/PortSwigger)
+- [Somdev Sangwan](https://twitter.com/s0md3v)
+- [Black Hat](https://twitter.com/BlackHatEvents)
+- [zseano](https://twitter.com/zseano)
+- [Emad Shanab](https://twitter.com/Alra3ees)
+- [Vegeta](https://twitter.com/_justYnot)
+- [Ansh Bhawnani](https://twitter.com/bhawnani_ansh)
+- [AshF0x](https://twitter.com/0xAshFox)
+- [Akita](https://twitter.com/akita_zen)
+- [publiclyDisclosed](https://twitter.com/disclosedh1)
 - [Ammar Amer](https://twitter.com/cry__pto)
-- [Mr. RC](https://twitter.com/coder_rc)
-- [Aditya shende](https://twitter.com/ADITYASHENDE17) 
+- [Mr. RC](https://twitter.com/coder_rc) 
 
-# Contributors: 
+# Thanks to all Contributors who created such a amazing content: 
 - [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
 - [Harsh Bothra](https://twitter.com/harshbothra_)
 - [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
@@ -62,3 +98,6 @@ This repository contains resources that a beginner would need to get started in 
 - [Mister RC](https://twitter.com/coder_rc)
 
 ##### P.S.: Please let me know if your name should be in above list.
+
+### My twitter:
+- [Kushagra Sarathe](https://twitter.com/psychedelicbyte)

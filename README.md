@@ -47,12 +47,13 @@ Gem article for beginners:
 - [Aditya shende](https://twitter.com/ADITYASHENDE17) 
 
 ## Credits to people who contributed to above resources: 
-#### [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
-#### [Harsh Bothra](https://twitter.com/harshbothra_)
-#### [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
-#### [Nahamsec](https://twitter.com/NahamSec)
-#### [OccupytheWeb](https://twitter.com/three_cube)
-#### [Vickie Li](https://twitter.com/vickieli7)
-#### [Ammar Amer](https://twitter.com/cry__pto)
+- [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
+- [Harsh Bothra](https://twitter.com/harshbothra_)
+- [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
+- [Nahamsec](https://twitter.com/NahamSec)
+- [OccupytheWeb](https://twitter.com/three_cube)
+- [Vickie Li](https://twitter.com/vickieli7)
+- [Ammar Amer](https://twitter.com/cry__pto)
+- [Mister RC](https://twitter.com/coder_rc)
 
 ##### P.S.: Please let me know if your name should be in above list.

@@ -1,4 +1,11 @@
-# [![Beginner Logo](./images/logo_transparent.png) Beginner Resources](https://github.com/HACKE-RC/beginners-resources)
+<h1 align="center">
+  <br>
+  <a href="https://github.com/HACKE-RC/beginners-resources"><img src="https://beeimg.com/images/l09057016821.png" alt="Logo" width="300" height="280"></a>
+  <br>
+  Beginner resources v2.0
+  <br>
+</h1>
+
 # Beginners Resources
 This repository contains resources that a beginner would need to get started in web application penetration testing and bug hunting.
 

@@ -99,5 +99,5 @@ This repository contains resources that a beginner would need to get started in 
 
 ##### P.S.: Please let me know if your name should be in above list.
 
-### My twitter:
+### My twitter handle:
 - [Kushagra Sarathe](https://twitter.com/psychedelicbyte)

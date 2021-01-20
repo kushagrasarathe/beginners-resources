@@ -5,7 +5,7 @@ This repository contains resources that a beginner would need to get started in 
 #### [Getting-started-in-bug-bounty-hunting](https://github.com/kushagrasarathe/beginners-resources#getting-started-in-bug-bounty-hunting)
 #### [Articles-by-vickie-li](https://github.com/kushagrasarathe/beginners-resources#articles-by-vickie-li)
 #### [Basic-topics-you-should-learn-to-get-started](https://github.com/kushagrasarathe/beginners-resources#basic-topics-you-should-learn-to-get-started)
-#### [Nahmsecs-repo](https://github.com/kushagrasarathe/beginners-resources#nahmsecs-repo)
+#### [Nahamsec-repo](https://github.com/kushagrasarathe/beginners-resources#nahamsec-repo)
 #### [Bminossis-poc-repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)
 #### [Learn-365-by-harsh-bothra](https://github.com/kushagrasarathe/beginners-resources#learn-365-by-harsh-bothra)
 
@@ -23,7 +23,7 @@ Gem article for beginners:
 ## Pentesting Bible:
 [PENTESTING-BIBLE by Ammar Amer](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 
-## Nahmsec's Repo:
+## Nahamsec's Repo:
 [Nahamsec's Repository for beginners](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 ## Bminossi's PoC Repo:
@@ -37,7 +37,7 @@ Gem article for beginners:
 #### [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
 #### [Harsh Bothra](https://twitter.com/harshbothra_)
 #### [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
-#### [Nahmsec](https://twitter.com/NahamSec)
+#### [Nahamsec](https://twitter.com/NahamSec)
 #### [Katie Paxton-Fear aka InsiderPhD](https://twitter.com/InsiderPhD)
 #### [OccupytheWeb](https://twitter.com/three_cube)
 #### [Vickie Li](https://twitter.com/vickieli7)
@@ -48,7 +48,7 @@ Gem article for beginners:
 #### [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
 #### [Harsh Bothra](https://twitter.com/harshbothra_)
 #### [Bruno - Zeroc00I](https://twitter.com/zeroc00I)
-#### [Nahmsec](https://twitter.com/NahamSec)
+#### [Nahamsec](https://twitter.com/NahamSec)
 #### [OccupytheWeb](https://twitter.com/three_cube)
 #### [Vickie Li](https://twitter.com/vickieli7)
 #### [Ammar Amer](https://twitter.com/cry__pto)

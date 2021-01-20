@@ -38,3 +38,5 @@ Gem article for beginners:
 #### [Nahmsec](https://twitter.com/NahamSec)
 #### [OccupytheWeb](https://twitter.com/three_cube)
 #### [Vickie Li](https://twitter.com/vickieli7)
+
+##### P.S.: Please let me know if your name should be in above list.

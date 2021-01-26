@@ -24,6 +24,7 @@ This repository contains resources that a beginner would need to get started in 
 - [Nahamsec repo](https://github.com/kushagrasarathe/beginners-resources#nahamsec-repo)
 - [Bminossis POC repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)
 - [Learn 365 by Harsh Bothra](https://github.com/kushagrasarathe/beginners-resources#learn-365-by-harsh-bothra)
+- [AllAboutBugBounty](https://github.com/kushagrasarathe/beginners-resources#AllAboutBugBounty)
 
 # Getting Started in Bug Bounty Hunting
 
@@ -37,6 +38,7 @@ This repository contains resources that a beginner would need to get started in 
 - [AllVideoPocsFromHackerOne](https://github.com/bminossi/AllVideoPocsFromHackerOne)
 - [Learn 365](https://github.com/harsh-bothra/learn365)
 - [PENTESTING-BIBLE by Ammar Amer](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+- [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
 
 ## People you can follow for amazing findings and resources
 - [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
@@ -61,6 +63,7 @@ This repository contains resources that a beginner would need to get started in 
 - [Stefan Rows](https://twitter.com/ceos3c)
 - [Musab Khan](https://twitter.com/Musab1995)
 - [Damanpreet Singh](https://twitter.com/MrDamanSingh)
+- [Mehedi Hasan Remon](https://twitter.com/remonsec)
 - [Patrik Hudak](https://twitter.com/0xpatrik)
 - [Manas](https://twitter.com/ManasH4rsh)
 - [Deepak Dhiman](https://twitter.com/Virdoex_hunter)
@@ -84,8 +87,7 @@ This repository contains resources that a beginner would need to get started in 
 - [AshF0x](https://twitter.com/0xAshFox)
 - [Akita](https://twitter.com/akita_zen)
 - [publiclyDisclosed](https://twitter.com/disclosedh1)
-- [Ammar Amer](https://twitter.com/cry__pto)
-- [Mr. RC](https://twitter.com/coder_rc) 
+- [Ammar Amer](https://twitter.com/cry__pto) 
 
 ## Thanks to all the contributors who created above mentioned resources: 
 - [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
@@ -96,8 +98,11 @@ This repository contains resources that a beginner would need to get started in 
 - [Vickie Li](https://twitter.com/vickieli7)
 - [Ammar Amer](https://twitter.com/cry__pto)
 - [Mister RC](https://twitter.com/coder_rc)
+- [Muhammad Daffa](https://twitter.com/daffainfo)
 
 ##### P.S.: Please let me know if your name should be in above list.
+
+### Special thanks to - [Mr. RC](https://twitter.com/coder_rc) for making this repository look cool.
 
 ### My twitter handle:
 - [Kushagra Sarathe](https://twitter.com/psychedelicbyte)

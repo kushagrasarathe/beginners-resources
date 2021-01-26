@@ -14,7 +14,7 @@ This repository contains resources that a beginner would need to get started in 
 - [Getting Started in Bug Bounty Hunting](#Getting-Started-in-Bug-Bounty-Hunting)
   * [Articles](#Articles)
   * [Useful Repos](#Useful-Repos)
-  * [People to follow](#People-to-follow)
+  * [People to follow](#People-you-can-follow-for-amazing-findings-and-resources)
 
 
 ## Index

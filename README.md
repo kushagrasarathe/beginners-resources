@@ -24,7 +24,6 @@ This repository contains resources that a beginner would need to get started in 
 - [Nahamsec repo](https://github.com/kushagrasarathe/beginners-resources#nahamsec-repo)
 - [Bminossis POC repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)
 - [Learn 365 by Harsh Bothra](https://github.com/kushagrasarathe/beginners-resources#learn-365-by-harsh-bothra)
-- [AllAboutBugBounty](https://github.com/kushagrasarathe/beginners-resources#AllAboutBugBounty)
 
 # Getting Started in Bug Bounty Hunting
 
@@ -102,7 +101,7 @@ This repository contains resources that a beginner would need to get started in 
 
 ##### P.S.: Please let me know if your name should be in above list.
 
-### Special thanks to - [Mr. RC](https://twitter.com/coder_rc) for making this repository look cool.
+#### Special thanks to - [Mr. RC](https://twitter.com/coder_rc) for making this repository look good.
 
 ### My twitter handle:
 - [Kushagra Sarathe](https://twitter.com/psychedelicbyte)

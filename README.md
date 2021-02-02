@@ -39,6 +39,9 @@ This repository contains resources that a beginner would need to get started in 
 - [PENTESTING-BIBLE by Ammar Amer](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 - [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
 
+## Exam Prepration Materials:
+- [OSCP Notes by Emad Shanab](https://guide.offsecnewbie.com/)
+
 ## People you can follow for amazing findings and resources
 - [M. Khizer Javed](https://twitter.com/KHIZER_JAVED47)
 - [Harsh Bothra](https://twitter.com/harshbothra_)

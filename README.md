@@ -61,6 +61,7 @@ This repository contains resources that a beginner would need to get started in 
 - [Katie Paxton-Fear aka InsiderPhD](https://twitter.com/InsiderPhD)
 - [OccupytheWeb](https://twitter.com/three_cube)
 - [Vickie Li](https://twitter.com/vickieli7)
+- [Lupin](https://twitter.com/0xLupin)
 - [PwnFunction](https://twitter.com/PwnFunction)
 - [Stefan Rows](https://twitter.com/ceos3c)
 - [Musab Khan](https://twitter.com/Musab1995)

@@ -22,7 +22,7 @@ This repository contains resources that a beginner would need to get started in 
 - [Articles by vickie li](https://github.com/kushagrasarathe/beginners-resources#articles-by-vickie-li)
 - [Basic topics you should learn to get started](https://github.com/kushagrasarathe/beginners-resources#basic-topics-you-should-learn-to-get-started)
 - [Nahamsec repo](https://github.com/kushagrasarathe/beginners-resources#nahamsec-repo)
-- [Bminossis POC repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)
+- [Bminossi's POC repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)
 - [Learn 365 by Harsh Bothra](https://github.com/kushagrasarathe/beginners-resources#learn-365-by-harsh-bothra)
 
 # Getting Started in Bug Bounty Hunting
@@ -38,6 +38,7 @@ This repository contains resources that a beginner would need to get started in 
 - [Learn 365](https://github.com/harsh-bothra/learn365)
 - [PENTESTING-BIBLE by Ammar Amer](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
 - [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
+- [HowToHunt](https://github.com/KathanP19/HowToHunt)
 
 ## Exam Prepration Materials:
 - [OSCP Notes by Emad Shanab](https://guide.offsecnewbie.com/)

@@ -11,19 +11,12 @@ This repository contains resources that a beginner would need to get started in 
 
 # [Table of contents](#Table)
 - [Index](#Index)
-- [Getting Started in Bug Bounty Hunting](#Getting-Started-in-Bug-Bounty-Hunting)
+- [Getting Started in Pentesting and Bug Bounty Hunting](#Getting-Started-in-Bug-Bounty-Hunting)
   * [Articles](#Articles)
   * [Useful Repos](#Useful-Repos)
+  * [Exam Prepration Materials:](https://github.com/kushagrasarathe/beginners-resources/blob/main/README.md#exam-prepration-materials)
   * [People to follow](#People-you-can-follow-for-amazing-findings-and-resources)
-
-
-## Index
-- [Getting started in bug-bounty hunting](https://github.com/kushagrasarathe/beginners-resources#getting-started-in-bug-bounty-hunting)
-- [Articles by vickie li](https://github.com/kushagrasarathe/beginners-resources#articles-by-vickie-li)
-- [Basic topics you should learn to get started](https://github.com/kushagrasarathe/beginners-resources#basic-topics-you-should-learn-to-get-started)
-- [Nahamsec repo](https://github.com/kushagrasarathe/beginners-resources#nahamsec-repo)
-- [Bminossi's POC repo](https://github.com/kushagrasarathe/beginners-resources#bminossis-poc-repo)
-- [Learn 365 by Harsh Bothra](https://github.com/kushagrasarathe/beginners-resources#learn-365-by-harsh-bothra)
+  
 
 # Getting Started in Bug Bounty Hunting
 
@@ -63,6 +56,7 @@ This repository contains resources that a beginner would need to get started in 
 - [OccupytheWeb](https://twitter.com/three_cube)
 - [Vickie Li](https://twitter.com/vickieli7)
 - [Lupin](https://twitter.com/0xLupin)
+- [Kathan Patel](https://twitter.com/KathanP19)
 - [PwnFunction](https://twitter.com/PwnFunction)
 - [Stefan Rows](https://twitter.com/ceos3c)
 - [Musab Khan](https://twitter.com/Musab1995)
@@ -101,6 +95,7 @@ This repository contains resources that a beginner would need to get started in 
 - [OccupytheWeb](https://twitter.com/three_cube)
 - [Vickie Li](https://twitter.com/vickieli7)
 - [Ammar Amer](https://twitter.com/cry__pto)
+- [Kathan Patel](https://twitter.com/KathanP19)
 - [Mister RC](https://twitter.com/coder_rc)
 - [Muhammad Daffa](https://twitter.com/daffainfo)
 

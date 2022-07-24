@@ -104,4 +104,4 @@ This repository contains resources that a beginner would need to get started in 
 #### Special thanks to - [Mr. RC](https://twitter.com/coder_rc) for making this repository look good.
 
 ### My twitter handle:
-- [Kushagra Sarathe](https://twitter.com/psychedelicbyte)
+- [Kushagra Sarathe](https://twitter.com/kushagrasarathe)
